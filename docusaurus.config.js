@@ -14,7 +14,7 @@ const config = {
   url: 'https://www.anky.lat',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ankytheape',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -57,6 +57,7 @@ const config = {
       }),
     ],
   ],
+  plugins: ['@docusaurus/plugin-ideal-image'],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -65,10 +66,6 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Anky',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             type: 'docSidebar',
@@ -88,11 +85,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Games',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Writing Dementor',
+                href: 'https://www.anky.lat',
               },
             ],
           },
@@ -100,12 +97,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: '',
-                href: '',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/kithkui',
+                label: 'Find others',
+                href: 'https://twitter.com/search?q=%23anky&src=typed_query',
               },
             ],
           },
@@ -116,10 +109,35 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              // {
-              //   label: 'GitHub',
-              //   href: 'https://github.com/ankytheape',
-              // },
+            ],
+          },
+          {
+            title: 'Stay tuned',
+            items: [
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/papasiendopapa',
+              },
+              {
+                label: 'Whatsapp',
+                href: 'https://wa.me/56985491126',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/jpfraneto',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCsO2sX4NjuIOy8Yx0m5n02w',
+              },
+              {
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@kithkui',
+              },
+              {
+                label: 'Substack',
+                href: 'https://jpfraneto.substack.com/',
+              },
             ],
           },
         ],
