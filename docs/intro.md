@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Anky
+# Introduction
 
 This place is alive. With you. As you.
 
