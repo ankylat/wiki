@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+![Emblazion](./img/emblazion.png)
+
 # 2. Emblazion
 
 The land of orange, of the emotional aspects of existence. Of the creative force that lies within you, and of the sexual energy that seeks to be released through you.

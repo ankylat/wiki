@@ -71,7 +71,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'What is this?',
+            label: 'Wiki',
+          },
+          {
+            href: 'https://mint.anky.lat/mint',
+            position: 'left',
+            label: 'MINT AN ANKY',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {

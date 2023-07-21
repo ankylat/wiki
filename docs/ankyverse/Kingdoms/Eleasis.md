@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+![Eleasis](./img/eleasis.png)
+
 # 4. Eleasis
 
 The land of green: compassion. Of the power of giving and receiving, and how this is an expression of the balance of life.

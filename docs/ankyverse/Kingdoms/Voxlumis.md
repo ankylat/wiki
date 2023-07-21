@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+![Voxlumis](./img/voxlumis.png)
+
 # 5. Voxlumis
 
 The land of blue, where communication is trained through the power of the words that come out of the self.

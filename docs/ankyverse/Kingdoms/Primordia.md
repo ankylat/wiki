@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![Primordia](./img/primordia.png)
+
 # 1. Primordia
 
 The land of red, of the primal aspects of existence.

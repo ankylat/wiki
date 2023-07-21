@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+![Chryseos](./img/chryseos.png)
+
 # 3. Chryseos
 
 The land of yellow: personal strength, willpower and transformation.
