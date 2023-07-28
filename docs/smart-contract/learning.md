@@ -210,7 +210,14 @@ contract ExampleContract {
 - Don't modify state inside the modifier. This is considered bad practice.
 - If a variable is set in the constructor and never modified, it should be immutable. Immutable variables can be set once on the constructor.
 - ERC721 is very similar to ERC20, but the only difference is that each token has a unique ID, and there is only one of them: Hence, NFTs.
-- 
+- Every connection to the EVM happens through a node, and in order to connect you need to connect to a node.
+- Every ethereum transaction has to be signed by an EOA (Externally Owned Account) and then sent to the blockchain to be included into a block.
+- Using the ethers library, we use a signer to take care of the transaction signer. ethers is a node library.
+- When you create a contract object with the ethers library, any transactions that are sent via our contract object will be signed by the signer.
+- Reading blockchain data is much simpler than adding or modifying blockchain data.
+- A fundamental practice of smart contract development is emitting "events" to signal significant happenings during smart contract execution.
+- When an event is emitted it is written to on-chain transaction logs. These are not accessible to smart contracts. They are solely used for off-chain logging, which is useful for observing and reacting to on-chain events.
+- Be aware that when a transaction is reverted, all gas until that point is still consumed, despite the transaction having no effect on blockchain data. 
 
 
 ## Rules of Thumb

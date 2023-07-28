@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '8 kingdoms',
-    description: <>Anky is an NFT collection like no other.</>,
+    description: <>Each one representing a unique aspect of yourself.</>,
   },
   {
     title: 'Traits as Personality',

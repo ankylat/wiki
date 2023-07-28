@@ -76,9 +76,9 @@ const config = {
           {
             href: 'https://mint.anky.lat/mint',
             position: 'left',
-            label: 'MINT AN ANKY',
+            label: 'Mint',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/ankytheape',
             label: 'GitHub',
