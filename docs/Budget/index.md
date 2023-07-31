@@ -31,4 +31,10 @@ All prices are estimates and depend on FP, but you get the point.
 - 3 \* 3 ETH -> For vacations of jp and family in between sojourns.
 - 5 ETH -> Education and therapy for jp
 
-The sum of all of this is 144 Eth. What I offer in exchange of that is 100 minutes of my absolute focus of creative energy building the Ankyverse, for each one of the 96 day sojourns.
+The sum of all of this is 144 Eth. What I offer in exchange of that is my absolute presence, giving each second of my life to make this thing work. I can't think about anything else. I'm deeply obsessed with this thing. And it is beautiful. I am honored. I am delighted.
+
+I am shaping this thing as a diamond. As a wooden toy for my daughter. At the end, it is all for her.
+
+It is all for them.
+
+It is time to build for them.
