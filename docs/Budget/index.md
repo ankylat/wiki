@@ -12,7 +12,11 @@ Anyway, so this is how I will spend the money during this first 96 + 21 + 96 + 2
 
 At least he tried.
 
-YUGA BAG - (@mortpoker)[https://www.twitter.com/mortpoker] will be the person that gets all this bag together and sell it to us.
+- 0.1618 ETH -> Inscription for Lex DAO. I want to make this thing as legal as I can, and this is the entrance point towrads that.
+
+---
+
+YUGA BAG - [@mortpoker](https://www.twitter.com/mortpoker) will be the person that gets all this bag together and sell it to us.
 
 All prices are estimates and depend on FP, but you get the point.
 
