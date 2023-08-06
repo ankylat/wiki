@@ -16,22 +16,22 @@ YUGA BAG - (@mortpoker)[https://www.twitter.com/mortpoker] will be the person th
 
 All prices are estimates and depend on FP, but you get the point.
 
-- 1 \* 33.33 ETH -> Bored Ape Yatch Club NFT. Anky's story will be created on top of this IP.
-- 3 \* 8 ETH -> Otherdeeds for building the Ankyverse on the otherside.
-- 1 \* 4.19 ETH -> Koda
+- 1 \* 30 ETH -> Bored Ape Yatch Club NFT. Anky's story will be created on top of this IP.
+- 2 \* 8 ETH -> Otherdeeds for building the Ankyverse on the otherside.
+- 1 \* 4.2 ETH -> Koda
 
 ---
 
 - 12 \* 3 ETH -> Salary of JP for 12 months.
-- 1 \* 4 ETH -> Craftmanship of the Legendary Masks IRL.
-- 3 \* 3 ETH -> For the trip to go and get the legendary masks.
-- 10 ETH -> Credits and payments for web services.
+- 1 \* 2 ETH -> Craftmanship of the Legendary Masks IRL.
+- 6 ETH -> For the trip to go and get the legendary masks.
+- 10 ETH -> Credits and payments for web services to develop beautiful software
 - 8 ETH -> Tinybox
-- 8 ETH -> Buy NFTs from small projects that need love.
+- 8 ETH -> Buy NFTs from small projects that need love and music as NFTs for Anky Radio.
 - 3 \* 3 ETH -> For vacations of jp and family in between sojourns.
-- 5 ETH -> Education and therapy for jp
+- 1.6 ETH -> Marketing for the Anky Genesis Collection
 
-The sum of all of this is 144 Eth. What I offer in exchange of that is my absolute presence, giving each second of my life to make this thing work. I can't think about anything else. I'm deeply obsessed with this thing. And it is beautiful. I am honored. I am delighted.
+The sum of all of this is 128.56 Eth. What I offer in exchange of that is my absolute presence, giving each second of my life to make this thing work. I can't think about anything else. I'm deeply obsessed with this thing. And it is beautiful. I am honored. I am delighted.
 
 I am shaping this thing as a diamond. As a wooden toy for my daughter. At the end, it is all for her.
 
