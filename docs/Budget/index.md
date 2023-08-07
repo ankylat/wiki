@@ -12,30 +12,26 @@ Anyway, so this is how I will spend the money during this first 96 + 21 + 96 + 2
 
 At least he tried.
 
-- 0.1618 ETH -> Inscription for Lex DAO. I want to make this thing as legal as I can, and this is the entrance point towrads that.
-
----
-
-YUGA BAG - [@mortpoker](https://www.twitter.com/mortpoker) will be the person that gets all this bag together and sell it to us.
+| Title                             | Description                                                                                                                                                                               | Amount | Unit Value | Total Value |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ----------- |
+| Lex Dao                           | Inscription                                                                                                                                                                               | 1      | 0.1618     | 0.1618      |
+| BAYC NFT                          | Anky is a bored ape and its story will be told on top of this IP                                                                                                                          | 1      | 30         | 30          |
+| Koda                              | Wtf is a koda?                                                                                                                                                                            | 1      | 4.2        | 4.2         |
+| Otherdeed                         | Ankyverse Kingdoms inside the Otherside Metaverse                                                                                                                                         | 8      | 2          | 16          |
+| jp salary                         | I need to build and not care about how I earn money for one year.                                                                                                                         | 3      | 12         | 36          |
+| Legendary Masks                   | Important piece of the lore of Anky. They will be handcrafted in Indonesia                                                                                                                | 8      | 0.250      | 2           |
+| Trip to Indonesia                 | To go and get the legendary masks, and tell the story through social media for people to connect deeper with the story of Anky                                                            | 1      | 6          | 6           |
+| Web Services / Deployments        | To build the software that will make Anky what it will be.                                                                                                                                | 1      | 10         | 10          |
+| Tinybox                           | This will be one of the most powerful computers for running Llama, and it will be the mind of Anky which will process all the writing from the people that participate in this adventure. | 1      | 8          | 8           |
+| NFTs                              | Anky will support other collections, and also create a radio that will play only music that is bought as NFTs                                                                             | 1      | 8          | 8           |
+| Marketing - Anky Genesis          | For spreading the word of the anky genesis collection                                                                                                                                     | 1      | 1.6        | 1.6         |
+| Macbook Pro for JP & Office setup | For having an amazing office where to craft beauty                                                                                                                                        | 1      | 4          | 4           |
 
 All prices are estimates and depend on FP, but you get the point.
 
-- 1 \* 30 ETH -> Bored Ape Yatch Club NFT. Anky's story will be created on top of this IP.
-- 2 \* 8 ETH -> Otherdeeds for building the Ankyverse on the otherside.
-- 1 \* 4.2 ETH -> Koda
+The sum of all of this is 126.96 Eth. The rest will serve as treasury
 
----
-
-- 12 \* 3 ETH -> Salary of JP for 12 months.
-- 1 \* 2 ETH -> Craftmanship of the Legendary Masks IRL.
-- 6 ETH -> For the trip to go and get the legendary masks.
-- 10 ETH -> Credits and payments for web services to develop beautiful software
-- 8 ETH -> Tinybox
-- 8 ETH -> Buy NFTs from small projects that need love and music as NFTs for Anky Radio.
-- 3 \* 3 ETH -> For vacations of jp and family in between sojourns.
-- 1.6 ETH -> Marketing for the Anky Genesis Collection
-
-The sum of all of this is 128.56 Eth. What I offer in exchange of that is my absolute presence, giving each second of my life to make this thing work. I can't think about anything else. I'm deeply obsessed with this thing. And it is beautiful. I am honored. I am delighted.
+What I offer in exchange of that is my absolute presence, giving each second of my life to make this thing work. I can't think about anything else. I'm deeply obsessed with this thing. And it is beautiful. I am honored. I am delighted.
 
 I am shaping this thing as a diamond. As a wooden toy for my daughter. At the end, it is all for her.
 
